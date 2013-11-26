@@ -153,6 +153,8 @@ int main (int argc, char * argv[]) {
   e = 0.0;
   nSamp = 0;
 
+  
+
   for (c=0;c<nCycles;c++) {
     /* Make N flip attempts */
     for (a=0;a<N;a++) {
